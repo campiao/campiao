@@ -2,7 +2,7 @@ Hi 👋 My name is Pedro Campião
 ==============================
 I'm currently pursuing a Bachelor's degree in Artificial Intelligence and Data Science at Faculdade de Ciências da Universidade do Porto.
 * 🌍  I'm based in Porto, Portugal
-* 🧠  I'm learning Unity, C# and gamedev related topics
+* 🧠  I'm learning Godot and gamedev related topics
 * 🤝  I'm open to collaborating on anything where I might be useful!
 
 ### Skills
